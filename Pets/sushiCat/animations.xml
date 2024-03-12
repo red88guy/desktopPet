@@ -95,6 +95,7 @@
       </end>
       <sequence repeatfrom="0" repeat="20">
         <frame>8</frame>
+        <next probability="100" only="none">3</next>
         <action>none</action>
       </sequence>
       <border>
